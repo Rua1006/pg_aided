@@ -1,0 +1,20 @@
+package composite;
+
+import java.util.ArrayList;
+
+public class Directory extends Entry {
+	private String name;
+	private ArrayList<Entry> directory = new ArrayList<>();
+	public Directory(String name) {this.name=name;}
+	@Override
+	public String getName() {
+		directory.add(entry);
+		return null;
+	}
+	@Override
+	protected void printList(String prefix) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

@@ -1,0 +1,6 @@
+package Adapter;
+
+public interface Student {
+	void showName();
+	void showAge();
+}

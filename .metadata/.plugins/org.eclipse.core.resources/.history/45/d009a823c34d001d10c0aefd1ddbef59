@@ -1,0 +1,10 @@
+package bridge;
+
+public class BridgeEx {
+	public static void main(String[] args) {
+		Display display = new Display(
+				new StringDisplayImp1("Display Test"));
+
+	}
+
+}

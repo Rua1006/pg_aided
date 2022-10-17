@@ -1,0 +1,10 @@
+package bridge;
+
+public class StirngDisplayImp1 extends DisplayImp1{
+	private String stirng;
+	private int width;
+	public StringDisplayImp1(String string){
+		this.stirng = string;
+		this.width = string.getBytes().length;
+	}
+}

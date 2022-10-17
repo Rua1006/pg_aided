@@ -1,0 +1,6 @@
+package HumanAdapter;
+
+public interface Student {
+	void showName();
+	void showAge();
+}

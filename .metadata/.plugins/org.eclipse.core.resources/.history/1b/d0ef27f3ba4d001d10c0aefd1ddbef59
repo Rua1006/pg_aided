@@ -1,0 +1,5 @@
+package HumanAdapter;
+
+public interface Student {
+
+}

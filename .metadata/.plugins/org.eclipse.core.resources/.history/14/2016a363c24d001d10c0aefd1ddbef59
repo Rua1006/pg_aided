@@ -1,0 +1,8 @@
+package bridge;
+
+public abstract class DisplayImp1 {
+
+	public void rawOpen();
+	public void rawPrint();
+	public void rawClose();
+}

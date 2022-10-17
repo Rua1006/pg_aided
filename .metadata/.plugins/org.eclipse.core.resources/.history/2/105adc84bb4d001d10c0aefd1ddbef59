@@ -1,0 +1,8 @@
+package HumanAdapter;
+
+public class HumanAdapter extends Human implements Student {
+	public static void main(String[] args) {
+
+
+	}
+}

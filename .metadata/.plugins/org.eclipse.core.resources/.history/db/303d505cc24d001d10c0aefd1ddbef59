@@ -1,0 +1,14 @@
+package bridge;
+
+public class DisplayImp1 {
+
+	public void rawOpen() {
+		
+	}
+	public void rawPrint() {
+		
+	}
+	public void rawClose() {
+		
+	}
+}

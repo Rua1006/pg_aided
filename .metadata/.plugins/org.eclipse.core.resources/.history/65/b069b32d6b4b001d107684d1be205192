@@ -1,0 +1,9 @@
+package singleton;
+
+public class SingleTonEx {
+
+	public static void main(String[] args) {
+
+	}
+
+}

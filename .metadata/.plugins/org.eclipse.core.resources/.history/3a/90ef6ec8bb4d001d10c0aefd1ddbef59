@@ -1,0 +1,20 @@
+package HumanAdapter;
+
+public class HumanAdapter extends Human implements Student {
+	public static void main(String[] args) {
+
+
+	}
+
+	@Override
+	public void showName() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void showAge() {
+		// TODO Auto-generated method stub
+		
+	}
+}
